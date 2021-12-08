@@ -1,7 +1,0 @@
-## Atividade de NodeJS
-
-- Criar endpoints para users:
-  * Listar usuarios (GET)
-  * Criar usuarios (POST)
-  * Modificar usuarios (PUT)
-  * Remover usuario (Delete)
